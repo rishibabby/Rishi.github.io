@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Physics Informed Neural Networks"
+excerpt: "Shallow networks are working better compared to Deep networks for PINNs 1<br/><img src='/images/MicrosoftTeams-image.png'>"
 collection: portfolio
 ---
 
