@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Data Visualization"
 permalink: /publications/
 author_profile: true
 ---
