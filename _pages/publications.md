@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Data Visualization"
-permalink: /publications/
+permalink: /Data_Science_Visualization/
 author_profile: true
 ---
 
