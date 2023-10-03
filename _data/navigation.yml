@@ -4,10 +4,10 @@ main:
     url: /files/Rishi_Resume.pdf
 
   - title: "Projects"
-    url: /portfolio/    
+    url: /Projects/    
 
   - title: "Data_Science_Visualization"
-    url: /publications/    
+    url: /Data_Science_Visualization/    
     
   # - title: "Portfolio"
   #   url: /portfolio/
