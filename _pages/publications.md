@@ -19,7 +19,7 @@ author_profile: true
 
 In this plot, District-wise production under Mash Cultivation in punjab is more at 2022 compared to other years in all district except for SAS Nagar. Where it is very low during that year. Most of the districts have same production for all years(Fazilka,Faridkot,Moga)
 
-Data set used is : (https://data.gov.in/resource/district-wise-production-under-mash-cultivation-punjab-1968-2022-april-march)
+Data set used is : [Line](https://data.gov.in/resource/district-wise-production-under-mash-cultivation-punjab-1968-2022-april-march)
 
 <br/><img src='/images/Line.jpg'>
 
@@ -27,7 +27,7 @@ Data set used is : (https://data.gov.in/resource/district-wise-production-under-
 
 We can see from above plot that slmost all district have same production for all years.
 
-Data set used is : (https://data.gov.in/resource/district-wise-production-under-mash-cultivation-punjab-1968-2022-april-march)
+Data set used is : [Scatter](https://data.gov.in/resource/district-wise-production-under-mash-cultivation-punjab-1968-2022-april-march)
 
 <br/><img src='/images/Scatter.jpg'>
 
@@ -35,7 +35,7 @@ Data set used is : (https://data.gov.in/resource/district-wise-production-under-
 
 The boxplot shows that the rainfall for the period from June to September for South-Indian subdivisions. Costal Karnataka receives the highest during the period followed by Kerala. The horizontal line represents the median and green triangle represents the mean in figure. Tamil Nadu receives lowest rainfall among the subdivisions for the period.
 
-Data set used is : (https://data.gov.in/resource/sub-divisional-monthly-rainfall-1901-2017)
+Data set used is : [Box](https://data.gov.in/resource/sub-divisional-monthly-rainfall-1901-2017)
 
 <br/><img src='/images/Box.jpg'>
  
